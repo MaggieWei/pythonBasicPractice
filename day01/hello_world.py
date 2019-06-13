@@ -13,7 +13,8 @@ print(message)
 4.据目前而言应使用小写字母作为变量名，单词间用_分隔，如student_name
 '''
 # 2.3字符串，字符串用双引号或者单引号括起来
-# 2.3.1使用方法修改字符串的大小写title()
+# 2.3.1使用方法修改字符串的大小写
+# 将字符串改为首字母大写title()
 name = "ada lovelace"
 print(name.title())
 # 将字符串全部改为大写upper()
